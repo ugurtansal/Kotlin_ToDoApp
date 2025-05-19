@@ -56,7 +56,7 @@ Navigation component for screen transitions
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/ssMainFragment.png)
+![Home Screen](/app/src/main/assets/ssMainFragment.png)
 
 ### ➕ Add Task Screen
 ![Add Task](assets/ssCreateFragment.png)
