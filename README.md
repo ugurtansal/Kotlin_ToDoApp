@@ -59,10 +59,10 @@ Navigation component for screen transitions
 ![Home Screen](/app/src/main/assets/ssMainFragment.png)
 
 ### ➕ Add Task Screen
-![Add Task](assets/ssCreateFragment.png)
+![Add Task](/app/src/main/assets/ssCreateFragment.png)
 
 ### ✏️ Edit Task Screen
-![Edit Task](assets/ssUpdateFragment.png)
+![Edit Task](/app/src/main/assets/ssUpdateFragment.png)
 
 
 ## 🛠 How to Run
